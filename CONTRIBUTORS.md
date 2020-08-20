@@ -319,5 +319,3 @@
 - [@eastbury13](https://github.com/eastbury13)
 
 - [@chris-kh-han](https://github.com/chris-kh-han)
-
-- [@aleksamitrovic91](https://github.com/aleksamitrovic91)
